@@ -1,10 +1,12 @@
 <<<<<<< HEAD
 #Working on how to query MetaboLights by elemental formula 
 #seems obvious, but not readily available (and a question that keeps coming up)
+#
 #input from user: 
 #code will ask for an elemental formula, this should be provide like this: C24H41N3O16
 #(e.g., no spaces, dots, etc.) and is the neutral elemental formula ([M])
 #output
+#
 #the code will send out a CSV file with all the hits in the study_id, positive or negative 
 #ion mode, assuming [M+H]+ in positive ion mode and [M-H]- in negative ion mode
 #Next steps: 
