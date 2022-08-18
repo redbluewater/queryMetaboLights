@@ -1,2 +1,2 @@
 # queryMetaboLights
-R code to quey Kujawinski lab data repositories at MetaboLights
+R code to query Kujawinski lab data repositories at MetaboLights
