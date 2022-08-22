@@ -94,7 +94,7 @@ frml <- readline(prompt ="enter your neutral elemental formula, no periods: ")
 exactMass <- calculateMass(frml)
 
 #read in the CSV file with the pre-sorted file information I need
-mfInfo <- read.csv("MetaboLights_untargetedLookup_prunedC24H41N3O16.csv")
+mfInfo <- read.csv("MetaboLights_untargetedLookup_curated.csv")
 
 #only search for MTBLS numbers found in the lookup table
 uM <- unique(mfInfo$MTBLS)
