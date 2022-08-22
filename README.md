@@ -17,3 +17,8 @@ One example of a compound I know you will find in some, but not all, studies thi
 
 ## Some notes
 This is not the fastest program in the world because it goes to MetaboLights to get the data files. For just the Kujawinski lab files it will tak <10 minutes. Expanding across more of MetaboLights will get progressively slower and slower, and at some point it's probably worth migrating this to an HPC computing environment where you can run each study in it's own little 'computing box'
+
+## Obvious next steps:
+1. There are a few Kujawinski lab datasets that are not in here because they have a slightly different format. They would be useful.
+2. Broaden to data from other laboratories
+3. Set this up on an HPC so the searches could happen in parallel
