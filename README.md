@@ -1,6 +1,6 @@
 # queryMetaboLights
 ### 18 August 2022
-R code to query Kujawinski lab data repositories at MetaboLights
+R code to query Kujawinski lab data repositories at MetaboLights\
 Krista Longnecker
 
 This repository is a first pass at setting up a way to query untargeted metabolomics data at MetaboLights with an elemental formula. This question has come up multple times, most recently at a meeting in late July. Voila, ''queryMetaboLights'' was started. This is a work in progress, but feel free to play with it and let me know what you think.
