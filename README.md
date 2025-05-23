@@ -3,7 +3,7 @@
 R code to query Kujawinski lab data repositories at MetaboLights\
 Krista Longnecker
 
-This repository is a first pass at setting up a way to query untargeted metabolomics data at MetaboLights with an elemental formula. This question has come up multple times, most recently at a meeting in late July. Voila, ''queryMetaboLights'' was started. This is a work in progress, but feel free to play with it and let me know what you think.
+This repository is a first pass at setting up a way to query untargeted metabolomics data at MetaboLights with an elemental formula. This question has come up multiple times, most recently at a meeting in late July. Voila, ''queryMetaboLights'' was started. This is a work in progress, but feel free to play with it and let me know what you think.
 
 ## Quick version of what to do with this:
 ``queryMetabolites_latest.R`` --> this is R script that will run a search based on an elemental formula you enter. Run this in your R environment (I use R Studio), when prompted, enter the elemental formula you want, and wait. To run enter this: ```source('~/Dropbox/XX_MetaboLights_access/queryMetaboLights_latest.R')```\
